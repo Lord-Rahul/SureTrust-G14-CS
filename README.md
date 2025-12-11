@@ -18,7 +18,7 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
+    <p><strong>Name:</strong> Simran Kaur </p>
     <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
     <p><strong>College Name:</strong> <!--- Add your college name---> </p>
     <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
@@ -29,7 +29,7 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
+    <p><strong>Course Opted:</strong> AI & ML </p>
     <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -47,7 +47,7 @@
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
-- [Course Learning](#course-learning-to-be-edited-by-student)
+- [Overall learning](#course-learning-to-be-edited-by-student)
 - [Projects Completed](#projects-completed)
 - [Project Introduction](#project-introduction)
 - [Technologies Used](#technologies-used)
@@ -63,7 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
+This is a placeholder. Replace the text below with your personal learning summary.
 During this course, I learned the fundamentals of web development and project design.
 I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
 problem-solving, teamwork, documentation, and delivering real-world project solutions.
@@ -72,24 +72,25 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> Headline hive</p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1:Headline hive</h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/SIMRAN-KAUR-g37-ai-ml/blob/62df189e127ea45497e4aa30f68a115f65b63637/Course%20report/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -125,7 +126,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
+This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary.
 LST and SST sessions helped me....
 ---
 
@@ -162,7 +163,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/user-attachments/assets/80b6a7f0-58bd-4380-b808-2fb2175f7753"
+ alt="Community Service Photo 1" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
@@ -186,4 +188,3 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
-
